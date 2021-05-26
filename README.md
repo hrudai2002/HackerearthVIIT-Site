@@ -8,4 +8,5 @@
 
 # HACKEREARTH VIIT STUDENT CHAPTER OFFICIAL SITE 2021
 
-[HACKEREARTH VIIT](https://hackerearthviit.netlify.app/)
+<a href = "https://hackerearthviit.netlify.app/" target = "_blank">HACKEREARTH VIIT</a>
+
